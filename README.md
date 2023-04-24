@@ -12,4 +12,4 @@ Esercizi di Grafica in movimento (2023)
 [rotazione 3 frame] (Esercizio_1A/rotazione_2.html)  
 
 ## Esercizio 1B
-[dittico] (Esercizio_1B/indexA.html)
+[dittico] (Esercizio_1B/indexA.html
