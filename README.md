@@ -20,3 +20,5 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 2B
 [forma e senso]()
+
+## Esercizio 3
