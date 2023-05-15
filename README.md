@@ -20,7 +20,7 @@
 [forma e senso](Esercizio_2A/index.html)
 
 ## Esercizio 2B
-[forma e senso]([esercizio_2B/indexA.html](https://github.com/lucastocker/GIM/blob/main/esercizio_2B/indexA.html)
+[forma e senso][esercizio_2B/indexA.html](https://github.com/lucastocker/GIM/blob/main/esercizio_2B/indexA.html)
 
 ## Esercizio 3
 [pong]  
