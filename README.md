@@ -20,6 +20,9 @@
 [forma e senso](Esercizio_2A/index.html)
 
 ## Esercizio 2B
-[forma e senso]()
+[forma e senso](Esercizio_2B/indexA.html)
 
 ## Esercizio 3
+[pong]
+[pong]
+[pong]
