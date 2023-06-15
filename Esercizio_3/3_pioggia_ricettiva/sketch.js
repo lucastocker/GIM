@@ -5,6 +5,10 @@ function setup(){
 function draw(){
 	
 	background(0,0,0)
+    r=random(100,)
+  g=random(100,155)
+  b=random(90,255)
+  
 
 	rotateX(mouseY*0.01)
 	rotateY(mouseX*0.01)
@@ -13,7 +17,7 @@ function draw(){
 
 	if (mouseIsPressed) randomSeed(0)
 	
-	stroke(255)
+	stroke(r,g,b)
 	noFill()
 	beginShape(LINES)
 	for(let i=0; i<1000; i=i+1){
