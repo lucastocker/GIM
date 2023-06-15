@@ -20,14 +20,14 @@ function draw() {
   let hDiameter = lerp(300, 600, (h % 12) / 12);
 
   // Draw the seconds circle
-  stroke(255,100,100,90); // Deep purple stroke with some transparency
+  stroke(255,100,100,200); // Deep purple stroke with some transparency
   circle(windowWidth / 2 - 50, windowHeight / 2, sDiameter, sDiameter, -90, map(s, 0, 60, -90, 270));
 
   // Draw the minutes circle
-  stroke(100,255,100,90); // Bright blue stroke with some transparency
+  stroke(100,255,100,200); // Bright blue stroke with some transparency
   circle(windowWidth / 2, windowHeight / 2, mDiameter, mDiameter, -90, map(m, 0, 60, -90, 270));
 
   // Draw the hours circle
-  stroke(100,100,255,90); // Bright pink stroke with some transparency
+  stroke(100,100,255,200); // Bright pink stroke with some transparency
   circle(windowWidth / 2 + 50, windowHeight / 2, hDiameter, hDiameter, -90, map(h % 12, 0, 12, -90, 270));
 }
