@@ -23,8 +23,8 @@
 [forma e senso interattivo](esercizio_2B/indexA.html)
 
 ## Esercizio 3
-[pong](Esercizio_3/1_pong/index.html) 
-[pioggia]    
+[pong](Esercizio_3/1_pong/index.html)    
+[pioggia]        
 [neve]   
 
 
