@@ -30,9 +30,9 @@ function draw(){
 	for (let i=0; i<60; i++) {
 		
 		if (i % 5 == 0) {
-			rect(-2.5, -210, 5, 50)
+			//ellipse(-2.5, -210, 15, 15)
 		} else {		
-			rect(-3, -210, 2, 16)
+			//ellipse(-3, -210, 5, 5)
 		}
 		
 		rotate(TWO_PI / 60)
@@ -47,7 +47,7 @@ function draw(){
 	fill(150, 255, 100)
 	push()
 	rotate(angolo_h)
-	ellipse(0, -30, 100, 100)
+	ellipse(0, -60, 100, 100)
 	//rect (-12, 40, 24, -160)
 	pop()	
 	
@@ -55,7 +55,7 @@ function draw(){
 	fill(150, 100, 255)
 	push()
 	rotate(angolo_m)
-	ellipse(0, -100, 70, 70)
+	ellipse(0, -160, 70, 70)
 	//rect (-9, -210, 18, 80)
 	pop()
 
@@ -70,6 +70,8 @@ function draw(){
 	// stroke(0, 0, 200)
 	// line (0, -1000, 0, 1000)
 	// line (-1000, 0, 1000, 0)
+  fill(255)
+  ellipse(0,0,15)
 
 }
 
