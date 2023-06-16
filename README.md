@@ -32,4 +32,4 @@
 [orologio pieno](Esercizio_4/1_orologio_stazione/index.html)        
 [orologio vuoto](Esercizio_4/1_orologio_stazione_1/index.html)  
 Sistema di cerchi pieni o vuoti che rappresentano le ore del giorno. Questi 2 orologi si concentrano su un'interpretazione più creativa e simbolica del tempo. Ogni colore rappresenta un'unità di misura.
-La lettura dell'orologio "vuoto" consiste unicamente nella grandezza dei cerchi che che si "resettano" ogni volta che l'unità avrà raggiunto il suo massimo (60secondi/60minuti/24ore).
+La lettura dell'orologio "vuoto" consiste unicamente nella grandezza dei cerchi che che si "resettano" ogni volta che l'unità avrà raggiunto il suo massimo (60secondi, 60minuti, 24ore).
