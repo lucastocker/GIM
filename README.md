@@ -29,5 +29,7 @@
 
 
 ## Esercizio 4  
-[orologio stazione rivisitato](Esercizio_4/1_orologio_stazione/index.html)        
-[orologio](Esercizio_4/1_orologio_stazione_1/index.html)  
+[orologio pieno](Esercizio_4/1_orologio_stazione/index.html)        
+[orologio vuoto](Esercizio_4/1_orologio_stazione_1/index.html)  
+//Sistema di vuoti e pieni che rappresentano le ore del giorno. Questo tipo di orologio si concentra su un'interpretazione più creativa e simbolica del tempo. Inoltre, può essere visto come un'opera d'arte piuttosto che un dispositivo pratico per la misurazione del tempo. Ogni colore rappresenta un'unità di misura.
+La lettura dell'orologio "vuoto" consiste unicamnete nella grandezza dei cerchi che che si resettano ogni volta che l'unità avrà raggiunto il suo massimo (60secondi/60minuti/24ore).
